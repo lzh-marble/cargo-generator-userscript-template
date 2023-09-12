@@ -1,0 +1,10 @@
+{
+  "include": ["src/**/*.ts"],
+  "compilerOptions": {
+    "target": "ESNext",
+    "outDir": "dist",
+    "experimentalDecorators": true,
+    "moduleResolution": "Node",
+    "isolatedModules": false
+  }
+}

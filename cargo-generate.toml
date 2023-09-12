@@ -1,0 +1,7 @@
+[placeholders]
+engine = { type = "string", prompt = "use which template engine", choices = [
+  "svelte",
+  "vue",
+] }
+[template]
+ignore = ["dist", "pnpm-lock.yaml", "package-lock.json", "node_modules"]
